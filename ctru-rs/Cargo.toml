@@ -18,7 +18,7 @@ name = "ctru"
 
 [dependencies]
 cfg-if = "1.0"
-ctru-sys = { path = "../ctru-sys", version = "0.5.0" }
+ctru-sys = { path = "../ctru-sys" }
 shim-3ds = { workspace = true }
 pthread-3ds = { workspace = true }
 libc = { workspace = true, default-features = true }
