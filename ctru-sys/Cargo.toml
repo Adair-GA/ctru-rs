@@ -9,7 +9,6 @@ keywords = ["3ds", "libctru"]
 categories = ["os", "external-ffi-bindings", "no-std", "hardware-support"]
 exclude = ["src/.gitattributes"]
 license = "Zlib"
-links = "ctru"
 edition = "2021"
 
 [features]
